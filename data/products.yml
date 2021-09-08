@@ -1,4 +1,168 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- name: Easy Label
+  description: Automatically generate Japan Post shipping labels
+  image: easylabel.png
+  url: https://apps.shopify.com/easy-label-japan-post
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Easy Rates
+  description: Display shipping rates from Japan Post in your store
+  image: easyrates.png
+  url: https://apps.shopify.com/easy-rates-japan-post
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Advanced COD
+  description: Cash on delivery app listed on the Shopify store
+  image: advanced_cod.png
+  url: https://apps.shopify.com/advanced-cash-on-delivery-global
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: World Cup Predictor
+  description: Interactive layout to predict the 2018 World Cup results
+  image: worldcup.png
+  url: http://www.worldcuppredict.win/
+  tags:
+    - devicon-react-original-wordmark
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Le Wagon Japan
+  description: Comprehensive list of student projects
+  image: lewagonjapan.png
+  url: https://le-wagon-tokyo.herokuapp.com/
+  tags:
+    - devicon-slack-plain
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Shopify Translator
+  description: Chrome extension that translates Shopify
+  image: translator.png
+  url: https://chrome.google.com/webstore/detail/shopify-%E6%97%A5%E6%9C%AC%E8%AA%9E-japanese/logjaoidoeihjlkmgncnnjfldhdiagac?hl=en-US
+  tags:
+    - devicon-chrome-plain-wordmark
+    - devicon-javascript-plain
+
+- name: Premier Football
+  description: Fantasy Premier League application.
+  image: prem_football.png
+  url: https://www.premierfooty.club/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Say Their Names
+  description: A list of people who were taken too soon
+  image: say_their_names.png
+  url: https://www.saytheirnames.xyz/
+  tags:
+    - devicon-ruby-plain-wordmark
+    - devicon-bootstrap-plain-wordmark
+    - devicon-html5-plain-wordmark
+    - devicon-css3-plain
+
+- name: Yahtzee Online
+  description: Play Yahtzee online with your friends
+  image: yahtzee.png
+  url: https://www.yahtzee.club/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Gibbit
+  description: An online service that helps foreigners living abroad
+  image: gibbit.png
+  url:
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: MOTD Times
+  description: A scraper to connect episodes of MOTD to Reddit
+  image: motd_times.png
+  url: http://www.motd-times.com/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-redis-plain-wordmark
+
+- name: Dave Beck Music
+  description: Events for a popular music act based in Seoul, Korea
+  image: davebeckmusic.png
+  url: https://dave-beck-music.herokuapp.com/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Simpons Database
+  description: A list of every Simpons character
+  image: simpsons.png
+  url: https://simpson-characters.herokuapp.com/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Starwars Universe
+  description: A list of every Star Wars planet and character
+  image: starwars.png
+  url: https://star-wars-universe-lw.herokuapp.com/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Yannify
+  description: Add Yann's face to your photo
+  image: yannify.png
+  url: https://yannify.herokuapp.com/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Squad Manager
+  description: Practicing drag-and-drop API
+  image: squadmanager.png
+  url: https://squad-manager.herokuapp.com/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
+
+- name: Mr. Cocktail
+  description: A collection of cocktail ingredients
+  image: cocktail.png
+  url: https://mr-cocktail-dmbf29.herokuapp.com/
+  tags:
+    - devicon-rails-plain-wordmark
+    - devicon-postgresql-plain-wordmark
+    - devicon-heroku-original
+    - devicon-javascript-plain
